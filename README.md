@@ -7,4 +7,5 @@
 4) /favorites - Избранное.
 
 dnipro.sql - дамп ДБ.
+миграции вы можете увидить в app/entity/Entity.php
 
